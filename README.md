@@ -1,4 +1,4 @@
-Run the following command to get the vendors
+Run the following command to get the vendors:
 "composer update"
 
 Create a database and run the following command:
